@@ -1,0 +1,9 @@
+player
+
+Example uses: player add "ip1234567890" 0 "playername" | player remove "ip1234567890" 0 "playername"
+
+Used when a player joins or leaves the current room. After using "current_state", the player who is joining gets sent "player add" commands for the full list of players currently in the game.
+
+1st Detail - The player's IRC username. (Not the same as their in-game name)
+2nd Detail - The player's current number of points.
+3rd Detail - The player's in-game name.
