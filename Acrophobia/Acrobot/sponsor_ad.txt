@@ -1,0 +1,7 @@
+sponsor_ad
+
+Example use: sponsor_ad "acr182.srf"
+
+Used once "logon_accepted" is sent for the second time.
+
+1st Detail - The file name of the ad to play. (Note: YDKJ the netshow ads are compatible here.)
