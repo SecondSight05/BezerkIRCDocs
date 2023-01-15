@@ -1,0 +1,5 @@
+logon_now
+
+Used as the first command when entering an IRC channel.
+
+(No extra details, just the command used.)
