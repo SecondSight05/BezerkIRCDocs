@@ -1,0 +1,7 @@
+player_not_found
+
+Example use: player_not_found "username"
+
+Used when a player was not found in a room while using the "Find My Friends" feature.
+
+1st Detail - The in-game name of the player.
