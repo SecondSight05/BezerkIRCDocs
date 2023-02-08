@@ -1,0 +1,9 @@
+start_comp_round
+
+Example use: start_comp_round 1 1 1 "ACRO" "category"
+
+1st Detail - Unknown
+2nd Detail - Unknown (May have to do with the timer. If this is set to anything other than 0, the timer kind of works?)
+3rd Detail - Unknown
+4th Detail - The acronym. (Must be in all caps)
+5th Detail - The category of the round.
