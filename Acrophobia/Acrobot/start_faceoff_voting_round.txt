@@ -1,0 +1,12 @@
+start_faceoff_voting_round
+
+Example use: start_faceoff_voting_round 1 1 1 "ACRO"
+
+Used to start a voting round for everyone besides the two faceoff players. (I could be wrong about this)
+
+1st Detail - Unknown.
+2nd Detail - Unknown.
+3rd Detail - Round music. (See "start_faceoff_comp_round" for details)
+4th Detail - The acronym. (Must be in all caps)
+
+(This command doesn't fully work currently. It "freezes" the game and you can't send any other commands. It's probably missing some details.)
