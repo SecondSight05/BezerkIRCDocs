@@ -1,0 +1,9 @@
+answer_received
+
+Example use: answer_received 1
+
+Used when an answer has been sent to the bot during a composition round.
+
+1st Detail - Must be exactly "1" or the game will show "0 Answers Submitted".
+
+(This command is probably missing some details.)
