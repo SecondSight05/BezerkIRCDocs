@@ -1,0 +1,11 @@
+start_faceoff
+
+Example use: start_faceoff 0 0 0 "ip0123456789" "ip1234567890"
+
+Used after a voting round has finished, once a player has reached 30 or more points.
+
+1st Detail - Unknown.
+2nd Detail - Unknown.
+3rd Detail - If there was a point tie for the 2nd place spot. (The person who was overall faster in the previous composition round gets the spot)
+4th Detail - The IRC username of the player who reached 30 or more points.
+5th Detail - The IRC username of the 2nd place player.
