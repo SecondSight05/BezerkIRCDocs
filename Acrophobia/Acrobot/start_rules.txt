@@ -1,0 +1,8 @@
+start_rules
+
+Example use 1: start_rules faceoff_voter
+Example use 2: start_rules faceoff_player
+
+Used to show the rules for the faceoff rounds.
+
+1st Detail - "faceoff_player" is used if you are one of the top two players, and "faceoff_voter" is used for anyone else.
