@@ -1,11 +1,11 @@
 start_faceoff_comp_round
 
-Example use: start_faceoff_comp_round 1 1 1 "ACRO"
+Example use: start_faceoff_comp_round 1 20000 1 "ACRO"
 
 Used to start a composition round for the two faceoff players.
 
 1st Detail - Unknown.
-2nd Detail - Unknown.
+2nd Detail - The length of the round timer in milliseconds.
 3rd Detail - Round music. (See below)
 4th Detail - The acronym. (Must be in all caps)
 
