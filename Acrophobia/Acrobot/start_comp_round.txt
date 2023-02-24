@@ -1,11 +1,11 @@
 start_comp_round
 
-Example use: start_comp_round 1 1 1 "ACRO" "category"
+Example use: start_comp_round 1 60000 1 "ACRO" "category"
 
 Used to start a composition round.
 
 1st Detail - Unknown.
-2nd Detail - Unknown. (May have to do with the timer. If this is set to anything other than 0, the timer kind of works?)
+2nd Detail - The length of the round timer in milliseconds.
 3rd Detail - The round number.
 4th Detail - The acronym. (Must be in all caps)
 5th Detail - The category of the round. (Must be a specific category for the background images to appear)
