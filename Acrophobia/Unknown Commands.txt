@@ -9,7 +9,6 @@ This is a list of commands that haven't been figured out at all yet.
 *vote_count
 *join_game_room
 *shutdown
-start_faceoff_summary - Going to try this one when I can.
 start_final_scores
 start_face_scores
 start_ad
