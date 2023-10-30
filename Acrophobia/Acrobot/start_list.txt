@@ -1,0 +1,21 @@
+start_list
+
+Example use: start_list <type> <details>
+
+Starts a list of details.
+
+1st Detail - <type> - The type of list that is being started.
+2nd Detail & onwards - <details> - The details needed by the type.
+
+Examples for all types (found so far):
+start_list answer 14 1 - Used for listing the submitted answers in a normal Voting Round.
+2nd Detail - The amount of answers submitted. (Can't go higher than the amount of players in the game - Max is 14)
+3rd Detail - Unknown. (Needs to be 1 to work properly)
+---
+start_list answer - Used for listing the submitted answers from the two players in a Faceoff Voting Round. No extra details needed.
+start_list category - Used for the category picker.
+start_list score - Used to update the point counts of the players.
+start_list faceoff_score - Used to update the unique point counts of the two players in the Faceoff Round.
+start_list vote_count - Used for showing and updating the voting points on both Voting Rounds.
+start_list download_ad - Used to create the list of ads that need to be downloaded for the next ad break.
+start_list play_ad - Used to create the list of ads to be played in the next ad break. (This must be used AFTER sending start_ad)
