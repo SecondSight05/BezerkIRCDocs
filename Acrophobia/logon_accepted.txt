@@ -1,5 +1,0 @@
-logon_accepted
-
-Used after "logon_now" once the game has sent "logon" with all the details.
-
-(No extra details, just the command used.)

@@ -1,7 +1,0 @@
-current_state
-
-Example use: current_state prestart_game
-
-Used when the game sends "start_play" to the bot.
-
-1st Detail - The round that the current game is at.
