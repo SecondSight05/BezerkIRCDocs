@@ -1,7 +1,6 @@
-# Bezerk IRC Documentation
-This is documentation of the commands used by the IRC bots in three of the Bezerk games from the late 90's.
-These are sent in the chat of a specific channel. (For example, the ListNick bot in Acrophobia uses the #Acro_List channel.)
+# Bezerk Documentation
+This is documentation of all the network requests and responses for the Bezerk games.
 
-(Originally for the Bezerk Revived project.)
+So, if you want to make your own Bezerk Revived, here you go... enjoy!
 
-Note: Not all of the commands have been figured out yet.
+(If you just want to play the games, check out [Bezerk Revived](https://bezerk.secondzone.co.uk/).)
