@@ -1,5 +1,5 @@
 # Bezerk Documentation
-This is documentation of all the network requests and responses for the Bezerk games.
+This is documentation of all the network requests and responses for the Bezerk games' servers.
 
 So, if you want to make your own Bezerk Revived, here you go... enjoy!
 
