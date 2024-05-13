@@ -8,7 +8,7 @@ Needed values:
 <br>`Error` - Unknown use. Just set it to "100".
 
 Example response:
-<br>`ContentServer=88.208.215.149&ContentServer=127.0.0.1&ContentServerCount=2&Error=100`
+<br>`ContentServer=127.0.0.1&ContentServer=127.0.0.1&ContentServerCount=2&Error=100`
 
 ## `/cgi/jolregister0.cgi`
 The first file that the netshow 1.5 engine tries to access if running the game for the first time.
