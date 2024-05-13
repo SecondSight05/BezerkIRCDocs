@@ -24,6 +24,9 @@ Sets up the name and port (port 80 is required again) of the Registration Server
 Sets up the name, and the web pages that will open when the game closes of the Web Server. Setting the port isn't needed.
 <br>This is the only one of these "server sections" that doesn't allow multiple uses.
 
+### `[Picture Server XYZ]`
+Sets up the name and port (80) of the Picture Server, which is a web server. This is only used in Get the Picture.
+
 ## `/acrophobia/shell/configfiles/files.lst`
 This is only used in the WON version of Acrophobia.
 <br>It lists the files that should be updated before letting you login.
