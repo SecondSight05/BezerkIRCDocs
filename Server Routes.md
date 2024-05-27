@@ -17,6 +17,7 @@ Which servers to follow for each game. These are in order of when the game first
 - Content Server
 - Registration Server
 - Game List Server
+
 Unknown from here, further work needed
 
 ## Get the Picture
@@ -24,4 +25,5 @@ Unknown from here, further work needed
 - Content Server
 - Registration Server
 - Game List Server
+
 Unknown from here, further work needed
