@@ -23,6 +23,7 @@ When you arrive at a command, and want to do something, there's several things t
 - Create folders (e.g. `IF CLIENT_FOLDER DOESNOTEXIST THEN CREATE_FOLDER`)
 - Download files (e.g. `IF CLIENT_PATH NOTEQUALTO VERSION THEN UPDATE`)
 - Goto somewhere else (e.g. `IF THIS LESSTHANOREQUALTO VERSION THEN GOTO`)
+- Set a variable (e.g. `SET VARIABLE TO VALUE`)
 
 When downloading a file, you can also set whether it is mandatory or not. This is useful if you want your server to run multiple client versions.
 <br>Again, I would recommend looking at the original script linked above...
