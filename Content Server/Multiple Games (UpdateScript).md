@@ -15,7 +15,7 @@ This is where things get a bit complicated.
 <br>The UpdateScript system is designed in a way where tasks link to and from each other. For example:
 <br>If the script called to Goto "Update This Thing", it of course could just update the thing and move on. However, if you want to be more efficient in your updating, you can then link to another task,
 which does a completely seperate thing. You can even have multiple Goto's for each task, with "1 Goto", "2 Goto", etc, and basically set up a network of tasks.
-<br>I would highly recommend looking at one of the original UpdateScripts (linked above) to get a better understanding on how this whole system works.
+<br>I would highly recommend looking at the original UpdateScript for Cosmic Consensus (linked above) to get a better understanding on how this whole system works.
 
 ## The commands of the script
 When you arrive at a command, and want to do something, there's several things that are allowed.
@@ -24,4 +24,4 @@ When you arrive at a command, and want to do something, there's several things t
 - Download files (e.g. `IF CLIENT_PATH NOTEQUALTO VERSION THEN UPDATE`)
 - Goto somewhere else (e.g. `IF THIS LESSTHANOREQUALTO VERSION THEN GOTO`)
 
-Again, I would recommend looking at one of the original scripts...
+Again, I would recommend looking at the original script linked above...
