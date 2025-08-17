@@ -11,7 +11,7 @@ Example response:
 <br>`BuildOKToRun=Y&EmailValid=1`
 
 ## `/cgi/dispatch2.cgi`
-The first file that the netshow 1.5 engine tries to access.
+The first file that the netshow 1.0 engine tries to access.
 <br>Fills in information about the current episode, interstitial ads, and more.
 
 Note: Any spaces are replaced by a "+". For example, `Hello there!` would be changed to `Hello+there!`
