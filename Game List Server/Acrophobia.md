@@ -49,16 +49,17 @@ Once the login has been accepted, the room list is sent.
 - 6: Unknown use.
 - 7: The IRC channel to join on the Game Room Server.
   - You can do this with or without the # at the beginning.
-- 8: The IRC bot name to look for on the Game Room Server.
-- 9: If the room has the language filter on or not.
+- 8: Unknown use.
+- 9: The IRC bot name to look for on the Game Room Server.
+- 10: If the room has the language filter on or not.
   - 1 for a Keep It Clean room, 0 for an Adult Language room.
-- 10: The room's game mode.
+- 11: The room's game mode.
   - The two known modes are "Practice" and "Play".
   - If a room has no players, keep this blank. (Don't forget the quotes!)
-- 11: The number of players currently in the room.
-- 12: The current high score of the room.
-- 13: Unknown use.
-- 14: If the room is Special Interest or not.
+- 12: The number of players currently in the room.
+- 13: The current high score of the room.
+- 14: Unknown use.
+- 15: If the room is Special Interest or not.
   - Special Interest rooms only appear green in versions of Acrophobia after 1.0.24.84
 
 No request command used, this is sent independently.
