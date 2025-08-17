@@ -10,4 +10,5 @@ Used to start a Composition Round (The typing round).
 - 3: The round number.
 - 4: The Acro of the round.
   - This must be in ALL CAPS, and only letters.
+  - Only make this 3 to 7 letters long.
 - 5: The category of the Acro.
